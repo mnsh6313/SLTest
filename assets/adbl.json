@@ -1,0 +1,558 @@
+{
+    "assets": {
+    "2075": [
+        {
+            "id": 1,
+            "sector": "Commercial Banks",
+            "asset_name": "Cash and Cash Equivalents",
+            "asset_value": 11227273.792,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        
+        {
+            "id": 2,
+            "sector": "Commercial Banks",
+            "asset_name": "Due from Nepal Rastra Bank",
+            "asset_value": 8270666.878,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3,
+            "sector": "Commercial Banks",
+            "asset_name": "Placement with Bank and Financial Institutions",
+            "asset_value": 0,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 4,
+            "sector": "Commercial Banks",
+            "asset_name": "Derivative Financial Instruments",
+            "asset_value": 0,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 5,
+            "sector": "Commercial Banks",
+            "asset_name": "Other Trading Assets ",
+            "asset_value": 0,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 6,
+            "sector": "Commercial Banks",
+            "asset_name": "Loans and Advances to B/F's",
+            "asset_value": 495000,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 7,
+            "sector": "Commercial Banks",
+            "asset_name": "Loans and Advances to Customers",
+            "asset_value": 98096350.319,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 8,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment Securities",
+            "asset_value": 12039971.463,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 9,
+            "sector": "Commercial Banks",
+            "asset_name": "Current Tax Assets",
+            "asset_value": 0,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 10,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment in Subsidiaries",
+            "asset_value": 28840,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 11,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment in Associates",
+            "asset_value": 69384,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 12,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment Property",
+            "asset_value": 240313.081,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 13,
+            "sector": "Commercial Banks",
+            "asset_name": "Property and Equipment",
+            "asset_value": 1210081.586,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 14,
+            "sector": "Commercial Banks",
+            "asset_name": "Goodwill and Intangible Assets",
+            "asset_value": 53527.545,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 15,
+            "sector": "Commercial Banks",
+            "asset_name": "Deferred Tax Assets",
+            "asset_value": 0,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 16,
+            "sector": "Commercial Banks",
+            "asset_name": "Other Assets",
+            "asset_value": 3122688.942,
+            "year": "2075",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 17,
+            "sector": "Commercial Banks",
+            "asset_name": "Total Assets",
+            "asset_value": 134854097.606,
+            "year": "2075",
+            "symbol": "ADBL"
+        }
+    ],
+    "2076": [
+        {
+            "id": 409,
+            "sector": "Commercial Banks",
+            "asset_name": "Cash and Cash Equivalents",
+            "asset_value": 11500460.234,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 410,
+            "sector": "Commercial Banks",
+            "asset_name": "Due from Nepal Rastra Bank",
+            "asset_value": 4993659.833,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 411,
+            "sector": "Commercial Banks",
+            "asset_name": "Placement with Bank and Financial Institutions",
+            "asset_value": 2858700,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 412,
+            "sector": "Commercial Banks",
+            "asset_name": "Derivative Financial Instruments",
+            "asset_value": 118552.2,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 413,
+            "sector": "Commercial Banks",
+            "asset_name": "Other Trading Assets ",
+            "asset_value": 0,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 414,
+            "sector": "Commercial Banks",
+            "asset_name": "Loans and Advances to B/F's",
+            "asset_value": 1285268.937,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 415,
+            "sector": "Commercial Banks",
+            "asset_name": "Loans and Advances to Customers",
+            "asset_value": 108806696.755,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 416,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment Securities",
+            "asset_value": 16846608.52,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 417,
+            "sector": "Commercial Banks",
+            "asset_name": "Current Tax Assets",
+            "asset_value": 206423.34,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 418,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment in Subsidiaries",
+            "asset_value": 28840,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 419,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment in Associates",
+            "asset_value": 69384,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 420,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment Property",
+            "asset_value": 258423.496,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 421,
+            "sector": "Commercial Banks",
+            "asset_name": "Property and Equipment",
+            "asset_value": 1264192.467,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 422,
+            "sector": "Commercial Banks",
+            "asset_name": "Goodwill and Intangible Assets",
+            "asset_value": 69398.746,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 423,
+            "sector": "Commercial Banks",
+            "asset_name": "Deferred Tax Assets",
+            "asset_value": 0,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 424,
+            "sector": "Commercial Banks",
+            "asset_name": "Other Assets",
+            "asset_value": 3151122.443,
+            "year": "2076",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 425,
+            "sector": "Commercial Banks",
+            "asset_name": "Total Assets",
+            "asset_value": 151457730.971,
+            "year": "2076",
+            "symbol": "ADBL"
+        }
+    ],
+    "2077": [
+        {
+            "id": 834,
+            "sector": "Commercial Banks",
+            "asset_name": "Cash and Cash Equivalents",
+            "asset_value": 8489432.167,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 835,
+            "sector": "Commercial Banks",
+            "asset_name": "Due from Nepal Rastra Bank",
+            "asset_value": 12567111.166,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 836,
+            "sector": "Commercial Banks",
+            "asset_name": "Placement with Bank and Financial Institutions",
+            "asset_value": 5007605.98,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 837,
+            "sector": "Commercial Banks",
+            "asset_name": "Derivative Financial Instruments",
+            "asset_value": 133762.2,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 838,
+            "sector": "Commercial Banks",
+            "asset_name": "Other Trading Assets ",
+            "asset_value": 17422.939,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 839,
+            "sector": "Commercial Banks",
+            "asset_name": "Loans and Advances to B/F's",
+            "asset_value": 1137559.451,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 840,
+            "sector": "Commercial Banks",
+            "asset_name": "Loans and Advances to Customers",
+            "asset_value": 121849394.269,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 841,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment Securities",
+            "asset_value": 24422064.121,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 842,
+            "sector": "Commercial Banks",
+            "asset_name": "Current Tax Assets",
+            "asset_value": 897717.791,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 843,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment in Subsidiaries",
+            "asset_value": 28840,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 844,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment in Associates",
+            "asset_value": 69384,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 845,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment Property",
+            "asset_value": 220925.902,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 846,
+            "sector": "Commercial Banks",
+            "asset_name": "Property and Equipment",
+            "asset_value": 1293544.827,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 847,
+            "sector": "Commercial Banks",
+            "asset_name": "Goodwill and Intangible Assets",
+            "asset_value": 289802.789,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 848,
+            "sector": "Commercial Banks",
+            "asset_name": "Deferred Tax Assets",
+            "asset_value": 0,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 849,
+            "sector": "Commercial Banks",
+            "asset_name": "Other Assets",
+            "asset_value": 2895650.624,
+            "year": "2077",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 850,
+            "sector": "Commercial Banks",
+            "asset_name": "Total Assets",
+            "asset_value": 179320218.226,
+            "year": "2077",
+            "symbol": "ADBL"
+        }
+    ],
+    "2078": [
+        {
+            "id": 3672,
+            "sector": "Commercial Banks",
+            "asset_name": "Cash and Cash Equivalents",
+            "asset_value": 10636731.923,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3673,
+            "sector": "Commercial Banks",
+            "asset_name": "Due from Nepal Rastra Bank",
+            "asset_value": 9740613.308,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3674,
+            "sector": "Commercial Banks",
+            "asset_name": "Placement with Bank and Financial Institutions",
+            "asset_value": 4117575,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3675,
+            "sector": "Commercial Banks",
+            "asset_name": "Derivative Financial Instruments",
+            "asset_value": 70862.4,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3676,
+            "sector": "Commercial Banks",
+            "asset_name": "Other Trading Assets ",
+            "asset_value": 1666533.703,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3677,
+            "sector": "Commercial Banks",
+            "asset_name": "Loans and Advances to B/F's",
+            "asset_value": 113668.154,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3678,
+            "sector": "Commercial Banks",
+            "asset_name": "Loans and Advances to Customers",
+            "asset_value": 150598355.82,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3679,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment Securities",
+            "asset_value": 37880065.618,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3680,
+            "sector": "Commercial Banks",
+            "asset_name": "Current Tax Assets",
+            "asset_value": 1214561.127,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3681,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment in Subsidiaries",
+            "asset_value": 28840,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3682,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment in Associates",
+            "asset_value": 69384,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3683,
+            "sector": "Commercial Banks",
+            "asset_name": "Investment Property",
+            "asset_value": 198284.843,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3684,
+            "sector": "Commercial Banks",
+            "asset_name": "Property and Equipment",
+            "asset_value": 1480615.09,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3685,
+            "sector": "Commercial Banks",
+            "asset_name": "Goodwill and Intangible Assets",
+            "asset_value": 262005.147,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3686,
+            "sector": "Commercial Banks",
+            "asset_name": "Deferred Tax Assets",
+            "asset_value": 0,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3687,
+            "sector": "Commercial Banks",
+            "asset_name": "Other Assets",
+            "asset_value": 4362253.111,
+            "year": "2078",
+            "symbol": "ADBL"
+        },
+        {
+            "id": 3688,
+            "sector": "Commercial Banks",
+            "asset_name": "Total Assets",
+            "asset_value": 222440349.244,
+            "year": "2078",
+            "symbol": "ADBL"
+        }
+    ],
+    "2079": []
+}
+}
